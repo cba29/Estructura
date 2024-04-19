@@ -7,3 +7,4 @@ for (var i = 1; i < n; i++)
 }
 
 Console.WriteLine("el resultaDO ES : " + suma.ToString());
+Console.WriteLine($"La suma de los {n} primeros numeros es: {suma} ");
